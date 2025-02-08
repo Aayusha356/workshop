@@ -2,3 +2,6 @@ this is text
 
 
 this is from master
+
+this id for git diff
+
